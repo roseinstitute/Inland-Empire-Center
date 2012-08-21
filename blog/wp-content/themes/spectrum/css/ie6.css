@@ -1,0 +1,14 @@
+.nav .sf-sub-indicator { top: 0.8em!important; }
+#top-nav .nav .sf-sub-indicator { background:	url(../images/arrow-superfish-ie.png) no-repeat; }
+.nav li a:hover { text-decoration:none; }
+.nav li a.sf-with-ul { padding-right:10px; }
+.button, .button:visited { margin:0; color:#555 !important; font-weight:normal; } .reply a {  color:#555 !important; }
+body  { background: none; }
+#recent-posts, #older-posts  { zoom: 1; }
+.widget h3 span  { top: 34px; }
+#footer-widgets .widget h3  {  position: static; }
+#loopedSlider .slide-content , #recent-posts .post .heading  { background-color: #000; }
+#loopedSlider .slide-content  { padding-right: 49px; }
+#tabs ul.wooTabs li a { margin-right: 3px; }
+#footer #credits img{vertical-align:top; zoom:1;}
+ul.wooTabs, #tabs .inside   { zoom: 1; }

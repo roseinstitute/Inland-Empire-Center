@@ -1,0 +1,22 @@
+/* Blue Colors */
+
+body  { color: #424242; background-color: #eaf0f5; }
+h1, h2, h3, h4, h5, h6, .post .title a:link, .post .title a:visited  { color: #222; }
+a:link, a:visited, .nocomments  { color: #0083e8; }
+
+#main-nav a:hover, #main-nav li.current-cat a, #main-nav li.current-cat a, #main-nav a:hover, #main-nav li.current_page_item a, #main-nav li.current_page_parent a  { border-bottom-color: #0083e8; }
+
+.nav-entries a, .post-entries a, .wp-pagenavi span.extend, .wp-pagenavi span.pages, .widget_recent_comments li a, .widget_woo_twitter a, .widget_tag_cloud div a, #tabs .inside #tab-tags a:hover { color:#92c3e8!important; }
+.widget h3, #tabs ul.wooTabs li a.selected, #tabs ul.wooTabs li a:hover, #tabs .inside  { background-color: #92c3e8; }
+.wp-pagenavi .current, .wp-pagenavi .on, .wp-pagenavi a:hover  { background: #92c3e8!important; }
+#main-nav a, .widget_woo_flickr a:hover img  { border-color: #92c3e8; }
+
+.widget h3 span  { background-image: url(blue/bg-widget-h3.png); }
+
+#footer-widgets, #comments .comment.thread-even .comment-container, .advert-content  { border-color: #bdccda; background-color: #d8e2ea; }
+#footer  { border-color: #88a0b4; color:#5b7388; background-color: #bdccda; }
+#footer-widgets .widget h3, .widget_woo_flickr a:hover img  { border-color: #88a0b4; }
+#footer-widgets .widget a:link, #footer-widgets .widget a:visited  { color: #88a0b4!important; }
+.widget_woo_flickr a img, #comments .comment .comment-container, .widget ul li, #older-posts li, #tabs .inside li, .pinglist li  { border-color: #bdccda; }
+
+#tabs ul.wooTabs li a  { background-color: #d8e2ea; }

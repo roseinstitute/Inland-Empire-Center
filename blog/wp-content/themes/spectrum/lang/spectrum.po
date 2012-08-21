@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: spectrum/includes/theme-functions.php:51
+msgid " Older Entries &raquo;"
+msgstr ""
+
+#. Text in function
+#: spectrum/search.php:42
+#: spectrum/archive.php:59
+#: spectrum/index.php:59
+#: spectrum/single.php:17
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: spectrum/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/theme-functions.php:50
+msgid "&laquo; Newer Entries "
+msgstr ""
+
+#. Text in function
+#: spectrum/search.php:42
+#: spectrum/archive.php:59
+#: spectrum/index.php:59
+#: spectrum/single.php:17
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: spectrum/search.php:42
+#: spectrum/archive.php:59
+#: spectrum/index.php:59
+#: spectrum/single.php:17
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:59
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:99
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-adspace.php:57
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2367
+msgid "Advanced Options:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:84
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: spectrum/footer.php:50
+msgid "All Rights Reserved."
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-adspace.php:70
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/archive.php:10
+#: spectrum/archive.php:13
+#: spectrum/archive.php:16
+#: spectrum/archive.php:19
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: spectrum/archive.php:22
+msgid "Archive by Author"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Author Archives"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:55
+msgid "Bio:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-archives.php:27
+#: spectrum/template-sitemap.php:23
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Category Archive"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-embed.php:100
+msgid "Category:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:26
+#: spectrum/template-sitemap.php:44
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "Contact Form Submission from "
+msgstr ""
+
+#. Text in echo
+#: spectrum/footer.php:51
+msgid "Designed by"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/theme-comments.php:22
+msgid "Direct link to this comment"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:136
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/theme-comments.php:23
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:150
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: spectrum/404.php:8
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:48
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:67
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:63
+msgid "Gravatar Size:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:63
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: spectrum/header.php:113
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:85
+msgid "Home only"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:164
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-adspace.php:62
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:25
+#: spectrum/includes/widgets/widget-woo-flickr.php:69
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: spectrum/comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: spectrum/comments.php:68
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:69
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-embed.php:125
+msgid "Limit (optional):"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-twitter.php:48
+msgid "Limit:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-adspace.php:66
+msgid "Link URL:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:84
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:84
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:84
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:95
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:77
+msgid "Medium"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:157
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Monthly Archive"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-archives.php:33
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:90
+#: spectrum/template-contact.php:143
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "Name: $name \\n\\nEmail: $email \\n\\nComments: $comments"
+msgstr ""
+
+#. Text in function
+#: spectrum/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:52
+msgid "No comments yet."
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-fullwidth.php:28
+#: spectrum/search.php:60
+#: spectrum/archive.php:77
+#: spectrum/page.php:28
+#: spectrum/single.php:48
+msgid "Nothing found"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:67
+msgid "Number of posts:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:52
+msgid "Number:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/index.php:98
+msgid "Older Posts"
+msgstr ""
+
+#. Text in function
+#: spectrum/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-sitemap.php:17
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:23
+msgid "Photos on flickr"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/featured.php:58
+msgid "Please setup Featured Panel tag(s) in your options panel. You must setup tags that are used on active posts."
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:24
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: spectrum/footer.php:51
+msgid "Powered by"
+msgstr ""
+
+#. Text in echo
+#: spectrum/archive.php:10
+msgid "RSS feed for this section"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:70
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:74
+msgid "Read More Text (optional):"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:78
+msgid "Read More URL (optional):"
+msgstr ""
+
+#. Text in echo
+#: spectrum/index.php:31
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:90
+#: spectrum/comments.php:95
+msgid "Required"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:70
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: spectrum/search-form.php:3
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: spectrum/search.php:8
+msgid "Search results"
+msgstr ""
+
+#. Text in echo
+#: spectrum/search-form.php:2
+msgid "Search..."
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2332
+msgid "Select Menu:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:163
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2415
+msgid "Show Top Level Descriptions:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:86
+msgid "Single only"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-embed.php:118
+#: spectrum/includes/widgets/widget-woo-flickr.php:74
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:67
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:76
+msgid "Square"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:165
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:109
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: spectrum/archive.php:25
+msgid "Tag Archives:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-embed.php:113
+msgid "Tag:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:27
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2435
+msgid "The Custom Menu has not been configured correctly.  Please check your theme settings before adding this widget."
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-archives.php:17
+msgid "The Last 30 Posts"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-fullwidth.php:31
+#: spectrum/search.php:63
+#: spectrum/archive.php:80
+#: spectrum/page.php:31
+#: spectrum/single.php:51
+#: spectrum/404.php:9
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:132
+msgid "There was an error submitting the form."
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:78
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-tabs.php:72
+msgid "Thumbnail Size (0=disable):"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-adspace.php:53
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-embed.php:96
+#: spectrum/includes/widgets/widget-woo-twitter.php:40
+#: spectrum/includes/widgets/widget-woo-search.php:33
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:51
+#: spectrum/functions/admin-custom-nav.php:2358
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:40
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:60
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-flickr.php:62
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-twitter.php:44
+msgid "Username:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:82
+msgid "Visible Pages:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:100
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-adspace.php:107
+msgid "Woo - Adspace Widget"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-blogauthor.php:1
+msgid "Woo - Blog Author Info"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-custom-nav.php:1991
+msgid "Woo - Custom Nav Menu"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-embed.php:160
+msgid "Woo - Embed/Video"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-flickr.php:1
+msgid "Woo - Flickr"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-search.php:1
+msgid "Woo - Search"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-tabs.php:1
+msgid "Woo - Tabs"
+msgstr ""
+
+#. Text in function
+#: spectrum/includes/widgets/widget-woo-twitter.php:1
+msgid "Woo - Twitter Stream"
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2387
+msgid "Wrap in container DIV:"
+msgstr ""
+
+#. Text in echo
+#: spectrum/functions/admin-custom-nav.php:2400
+msgid "Wrap in container UL:"
+msgstr ""
+
+#. Text in function
+#: spectrum/functions/admin-functions.php:1023
+msgid "Yearly Archive"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:105
+msgid "You can use these tags"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "You emailed "
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:89
+msgid "You entered an invalid"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "You entered an invalid email address."
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:82
+msgid "You forgot to enter your"
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#. Text in function
+#: spectrum/template-contact.php:7
+msgid "You forgot to enter your name."
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:76
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/theme-comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-contact.php:117
+msgid "Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/theme-comments.php:21
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: spectrum/single.php:16
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: spectrum/template-archives.php:23
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:76
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: spectrum/includes/theme-functions.php:136
+msgid "on "
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:23
+msgid "to"
+msgstr ""
+
+#. Text in echo
+#: spectrum/comments.php:76
+msgid "to post a comment."
+msgstr ""
+
+#. Text in function
+#: spectrum/page.php:17
+#: spectrum/single.php:18
+msgid "{ Edit }"
+msgstr ""
