@@ -1,8 +1,0 @@
-.nav li a {_height: 0;zoom: 1;} /* IE7 Fix */
-.button, .button:visited {  padding:7px 6px; margin:0; }
-#recent-posts, #older-posts  { zoom: 1; }
-.widget h3 span  { top: 32px; }
-#footer-widgets .widget h3  {  position: static; }
-#loopedSlider .slide-content, #recent-posts .post .heading  { background-color: #000; }
-#loopedSlider .slide-content  { padding-right: 49px; }
-ul.wooTabs, #tabs .inside   { zoom: 1; }
